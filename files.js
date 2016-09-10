@@ -1,6 +1,7 @@
 var files = {
 	"random": [
-		"population"
+		"population",
+		"population-mapa"
 	]
 };
 
